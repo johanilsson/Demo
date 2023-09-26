@@ -1,5 +1,6 @@
 ﻿using System;
 
-var number = 0;
+var number = 9;
 
-Console.WriteLine var number;
+Console.WriteLine(number);
+
