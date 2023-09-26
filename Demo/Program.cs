@@ -1,6 +1,6 @@
 ﻿using System;
 
-var number = 9;
+int number = 22;
 
 Console.WriteLine(number);
 
